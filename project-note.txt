@@ -1,2 +1,3 @@
 This is my first Git and GitHub practice file. I am learning how to track changes, commit work, and collaborate using version control.
 This sentence was added directly on GitHub.
+This sentence was added locally after pulling from GitHub.
